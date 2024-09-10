@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/eff68de2-18be-4e5d-93a7-a3e0adc06e52)
+
 # Sistema Gimnasio Fitness PRO - Diseño del Sistema
 ### Harika Sebasthian
 ### Diseño Orientado a Objetos- Tec. En Programación
@@ -25,5 +27,9 @@
 - **Control de Acceso Inteligente:** Validación digital de membresías para agilizar la entrada y evitar errores manuales.
 - **Mantenimiento Programado de Equipos:** Supervisión automática del uso de los equipos para programar el mantenimiento preventivo.
 ## Los Pasos Donde Iniciamos el proyecto son :
-  - **1- Esbozo de Diseño:** <enlace>https://excalidraw.com/#json=MYb-MWc0_lHYycFWXQc06,w1CSBuOUSFZ62_xkcdzIlQ
-  
+ - **1- Esbozo de Diseño:** <enlace>https://excalidraw.com/#json=MYb-MWc0_lHYycFWXQc06,w1CSBuOUSFZ62_xkcdzIlQ
+![image](https://github.com/user-attachments/assets/e7842145-b883-40df-9dc6-5707a33874f0)
+
+ - **2- Tarjetas CRC:** https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing
+    ![image](https://github.com/user-attachments/assets/7e2509d5-2988-4945-948e-404b6952b15f)
+ - **3- Escenarios de casos de uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
