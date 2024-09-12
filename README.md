@@ -30,9 +30,9 @@
 ### - **1- Esbozo de Diseño:** <enlace>https://excalidraw.com/#json=MYb-MWc0_lHYycFWXQc06,w1CSBuOUSFZ62_xkcdzIlQ
 ![image](https://github.com/user-attachments/assets/e7842145-b883-40df-9dc6-5707a33874f0)
 
-### - **2- Tarjetas CRC:** https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing
+### - **2- Tarjetas CRC:**  (https://github.com/user-attachments/files/16971684/Tarjetas.CRC.xlsx)
  ![image](https://github.com/user-attachments/assets/7e2509d5-2988-4945-948e-404b6952b15f)
- (https://github.com/user-attachments/files/16971684/Tarjetas.CRC.xlsx)
-cNZ/view?usp=sharing
+ https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing 
+
 ### - **3- Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
 ### - **4- Diagrmas Casos de Uso:** https://drive.google.com/file/d/1aJkKvYak9EDUSvBTj3A4pdkfUt1Nr[Tarjetas CRC.xlsx]
