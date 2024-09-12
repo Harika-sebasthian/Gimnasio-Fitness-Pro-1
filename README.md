@@ -32,6 +32,7 @@
 
 ### - **2- Tarjetas CRC:**  (https://github.com/user-attachments/files/16971684/Tarjetas.CRC.xlsx)
  ![image](https://github.com/user-attachments/assets/7e2509d5-2988-4945-948e-404b6952b15f)
+ 
  https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing 
 
 ### - **3- Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
