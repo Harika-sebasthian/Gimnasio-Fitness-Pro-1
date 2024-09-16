@@ -36,4 +36,4 @@
  https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing 
 
 ### - **3- Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
-### - **4- Diagrmas Casos de Uso:** https://drive.google.com/file/d/1aJkKvYak9EDUSvBTj3A4pdkfUt1Nr
+### - **4- Diagrmas Casos de Uso:** https://app.diagrams.net/#G1aJkKvYak9EDUSvBTj3A4pdkfUt1NrcNZ#%7B%22pageId%22%3A%22eS0ysgVaiaZ4JWTlwgha%22%7D
