@@ -26,7 +26,7 @@
 - **Mantenimiento Programado de Equipos:** Supervisión automática del uso de los equipos para programar el mantenimiento preventivo.
 ## Los Pasos Donde Iniciamos el proyecto son :
 ## **1- Esbozo de Diseño:** https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing
-https:file:///C:/Users/Sebasthian/Desktop/Sin%20t%C3%ADtulo-2024-08-25-1314.excalidraw.svg
+                            https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing
 
 ## - **2- Tarjetas CRC:** 
 
