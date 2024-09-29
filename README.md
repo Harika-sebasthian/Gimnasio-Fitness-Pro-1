@@ -1,10 +1,8 @@
-![image](https://github.com/user-attachments/assets/eff68de2-18be-4e5d-93a7-a3e0adc06e52)
-
 # Sistema Gimnasio Fitness PRO - Diseño del Sistema
-### Harika Sebasthian
+## Harika Sebasthian
 ### Diseño Orientado a Objetos- Tec. En Programación
-### Lic. Matias Velasquez
-### 2024
+#### Lic. Matias Velasquez
+##### 2024
 ###
 ## Introducción
 ¡Bienvenido al Sistema de Gestión del Gimnasio "Fitness Pro"!, Este proyecto tiene como objetivo transformar y optimizar las operaciones diarias de nuestro gimnasio a través de una solución digital, eficiente y moderna.
@@ -27,13 +25,11 @@
 - **Control de Acceso Inteligente:** Validación digital de membresías para agilizar la entrada y evitar errores manuales.
 - **Mantenimiento Programado de Equipos:** Supervisión automática del uso de los equipos para programar el mantenimiento preventivo.
 ## Los Pasos Donde Iniciamos el proyecto son :
-### - **1- Esbozo de Diseño:** <enlace>https://excalidraw.com/#json=MYb-MWc0_lHYycFWXQc06,w1CSBuOUSFZ62_xkcdzIlQ
-![image](https://github.com/user-attachments/assets/e7842145-b883-40df-9dc6-5707a33874f0)
+##- **1- Esbozo de Diseño:** https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing
 
-### - **2- Tarjetas CRC:**  (https://github.com/user-attachments/files/16971684/Tarjetas.CRC.xlsx)
- ![image](https://github.com/user-attachments/assets/7e2509d5-2988-4945-948e-404b6952b15f)
- 
- https://drive.google.com/file/d/1g306KPYnMU7PZP-zfcTmO9Lfrcvya2fQ/view?usp=sharing 
 
-### - **3- Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
-### - **4- Diagrmas Casos de Uso:** https://app.diagrams.net/#G1aJkKvYak9EDUSvBTj3A4pdkfUt1NrcNZ#%7B%22pageId%22%3A%22eS0ysgVaiaZ4JWTlwgha%22%7D
+## - **2- Tarjetas CRC:** 
+
+
+## - **3- Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
+## - **4- Diagrmas Casos de Uso:** https://app.diagrams.net/#G1aJkKvYak9EDUSvBTj3A4pdkfUt1NrcNZ#%7B%22pageId%22%3A%22eS0ysgVaiaZ4JWTlwgha%22%7D
