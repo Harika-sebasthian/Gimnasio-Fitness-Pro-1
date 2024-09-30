@@ -1,4 +1,4 @@
-# Sistema Gimnasio Fitness PRO - Diseño del Sistema
+## Sistema Gimnasio Fitness PRO - Diseño del Sistema
 ## Harika Sebasthian
 ### Diseño Orientado a Objetos- Tec. En Programación
 #### Lic. Matias Velasquez
