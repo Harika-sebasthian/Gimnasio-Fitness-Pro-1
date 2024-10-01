@@ -34,4 +34,6 @@ https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?us
 
 #### **●Escenarios de Casos de Uso:** 
 https://docs.google.com/spreadsheets/d/1ieskX2TF1jHCkCJew-rCxBZ6fUdH4Ypj/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true 
-#### **● Diagrmas Casos de Uso:** https://app.diagrams.net/#G1aJkKvYak9EDUSvBTj3A4pdkfUt1NrcNZ#%7B%22pageId%22%3A%22eS0ysgVaiaZ4JWTlwgha%22%7D
+#### **● Diagrmas Casos de Uso:** 
+https://drive.google.com/file/d/1VmCP5j0LtNpyWSzHCOmCFVYVieojGFji/view?usp=sharing
+
