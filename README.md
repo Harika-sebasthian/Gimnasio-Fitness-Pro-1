@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=shari
 https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing                                
 
 #### **●Tarjetas CRC:** 
-
+https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true
 
 #### **●Escenarios de Casos de Uso:** [Escenarios.de.Caso.de.Uso..xlsx](https://github.com/user-attachments/files/16956093/Escenarios.de.Caso.de.Uso.xlsx)
 #### **● Diagrmas Casos de Uso:** https://app.diagrams.net/#G1aJkKvYak9EDUSvBTj3A4pdkfUt1NrcNZ#%7B%22pageId%22%3A%22eS0ysgVaiaZ4JWTlwgha%22%7D
