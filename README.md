@@ -36,4 +36,7 @@ https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?us
 https://docs.google.com/spreadsheets/d/1ieskX2TF1jHCkCJew-rCxBZ6fUdH4Ypj/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true 
 #### **● Diagrmas Casos de Uso:** 
 https://drive.google.com/file/d/1VmCP5j0LtNpyWSzHCOmCFVYVieojGFji/view?usp=sharing
-
+#### **Diagrama de Clases v1 (Utilizando SOLID)**
+https://drive.google.com/file/d/1Ogr0PiFws1k99FMd961p6ZAIdnAxd8MX/view?usp=sharing
+#### **● Anexo - Aplicación de Principios SOLID** 
+https://drive.google.com/file/d/1BkwDWMr3QvfOYs4ceuX0OSNB-uYEgZld/view?usp=sharing
