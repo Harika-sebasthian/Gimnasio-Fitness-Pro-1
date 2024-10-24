@@ -25,18 +25,18 @@
 - **Control de Acceso Inteligente:** Validación digital de membresías para agilizar la entrada y evitar errores manuales.
 - **Mantenimiento Programado de Equipos:** Supervisión automática del uso de los equipos para programar el mantenimiento preventivo.
 ## Diseños y Diagramas
-#### **● Esbozo de Diseño:** 
-https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing
-https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing                                
+[#### **● Esbozo de Diseño:**](https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing)[](https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing)                               
 
-#### **●Tarjetas CRC:** 
-https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true
+[#### **●Tarjetas CRC:**](https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true)
 
-#### **●Escenarios de Casos de Uso:** 
-https://docs.google.com/spreadsheets/d/1ieskX2TF1jHCkCJew-rCxBZ6fUdH4Ypj/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true 
-#### **● Diagrmas Casos de Uso:** 
-https://drive.google.com/file/d/1VmCP5j0LtNpyWSzHCOmCFVYVieojGFji/view?usp=sharing
-#### **Diagrama de Clases v1 (Utilizando SOLID)**
-https://drive.google.com/file/d/1Ogr0PiFws1k99FMd961p6ZAIdnAxd8MX/view?usp=sharing
-#### **● Anexo - Aplicación de Principios SOLID** 
-https://drive.google.com/file/d/1BkwDWMr3QvfOYs4ceuX0OSNB-uYEgZld/view?usp=sharing
+[#### **●Escenarios de Casos de Uso:**](https://docs.google.com/spreadsheets/d/1ieskX2TF1jHCkCJew-rCxBZ6fUdH4Ypj/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true)
+
+[#### **● Diagrmas Casos de Uso:**](https://drive.google.com/file/d/1VmCP5j0LtNpyWSzHCOmCFVYVieojGFji/view?usp=sharing)
+
+[#### **Diagrama de Clases v1 (Utilizando SOLID)**](https://drive.google.com/file/d/1Ogr0PiFws1k99FMd961p6ZAIdnAxd8MX/view?usp=sharing)
+
+[#### **● Anexo - Aplicación de Principios SOLID**](https://drive.google.com/file/d/1BkwDWMr3QvfOYs4ceuX0OSNB-uYEgZld/view?usp=sharing)
+
+[#### **● Diagrama de Actividades**](https://drive.google.com/file/d/1t1qVLT8T9Dpj5SybmFNFr8ZgsDvFp1gW/view?usp=sharing)
+
+[#### **● Diagrama de Secuencias**](https://drive.google.com/file/d/1KeEkROZjTwGF5jbBCok-TUgxXJFxLZ-x/view?usp=sharing)
