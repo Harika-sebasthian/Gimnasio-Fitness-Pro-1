@@ -25,7 +25,7 @@
 - **Control de Acceso Inteligente:** Validación digital de membresías para agilizar la entrada y evitar errores manuales.
 - **Mantenimiento Programado de Equipos:** Supervisión automática del uso de los equipos para programar el mantenimiento preventivo.
 ## Diseños y Diagramas
-[#### **● Esbozo de Diseño:**](https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing)[](https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing)                               
+[**● Esbozo de Diseño:**](https://drive.google.com/file/d/1ipLy2Yzf19XskEwPUWii05zK3KFuNSmf/view?usp=sharing)[](https://drive.google.com/file/d/1P4Dzh-XjStmt1UO6Sulw2zr2Y9HH_B68/view?usp=sharing)                               
 
 [**●Tarjetas CRC:**](https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true)
 
