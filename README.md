@@ -40,7 +40,7 @@
     -  [Caso de uso 3](https://drive.google.com/file/d/1_IF3EAWI4IigSC2n2f2_l4agHD8OPiLh/view?usp=sharing)
     -  [Caso de uso 4](https://drive.google.com/file/d/1Sr58nH-vGiKGmtY4Utr0p4SeeHIFOKUV/view?usp=sharing)
     -  [Caso de uso 5](https://drive.google.com/file/d/1AKCp7irXLkqcPfdcJlqPiX1lSbRqwwkl/view?usp=sharing)
-- Herramientas Agile
+- [Herramientas Agile](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/HerramientasAgile.md)
    - [Matriz CLAE](https://drive.google.com/file/d/1La9lulDQ6jgVZ7pZLlYeXYfHwfbJM9if/view?usp=sharing)
    - [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1RZLa_S_f_hPz4jMp3gbL-ROS3zrso7GE/edit?usp=sharing&ouid=103155954299850366903&rtpof=true&sd=true)
 - Anexos:
