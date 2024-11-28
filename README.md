@@ -9,7 +9,7 @@
 
 ## Descripción del Proyecto
 
-- El Gimnasio "Fitness Pro" es conocido por ofrecer una experiencia de entrenamiento de alta calidad a sus socios. Sin embargo, los procesos actuales se llevan a cabo de manera manual, lo que ha generado ineficiencias, errores y problemas operativos. Este sistema busca digitalizar y automatizar las siguientes áreas clave:
+El Gimnasio "Fitness Pro" es conocido por ofrecer una experiencia de entrenamiento de alta calidad a sus socios. Sin embargo, los procesos actuales se llevan a cabo de manera manual, lo que ha generado ineficiencias, errores y problemas operativos. Este sistema busca digitalizar y automatizar las siguientes áreas clave:
 
 - **Registro de Socios:** Digitalización del proceso de inscripción y almacenamiento seguro de la información de los socios.
 - **Gestión de Reservas y Clases:** Sistema de reservas en línea para garantizar una experiencia más organizada.
