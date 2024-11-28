@@ -1,0 +1,3 @@
+  -  [Diagrama de Clases v1(Utilizando SOLID)](https://drive.google.com/file/d/1Ogr0PiFws1k99FMd961p6ZAIdnAxd8MX/view?usp=sharing).
+  -  [Diagrama de Clases v2](https://drive.google.com/file/d/1sYdv_h2_8dHctP3aGQ63PYi-9FGqujCH/view?usp=sharing)
+  - [Diagrama de Clases v3 (Utilizando Patrón XXXX)] 
