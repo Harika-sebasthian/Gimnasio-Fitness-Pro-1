@@ -1,4 +1,4 @@
- ##   Anexo - Aplicación de Patrón de Diseño XXXXX
+ ##   Anexo - Aplicación de Patrón de Diseño Observer
 
 **Patrón de Diseño Seleccionado:**
 
