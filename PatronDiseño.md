@@ -17,7 +17,7 @@ Los observadores  serían los sistemas de notificación (por ejemplo, la reserva
 **Extensibilidad:** Si en el futuro necesitan agregar más observadores (por ej. un sistema de marketing), pueden hacerlo sin modificar las clases existentes.
 
 **Flexibilidad:** Se puede agregar o quitar observadores fácilmente sin afectar el funcionamiento principal del sistema.
-##  [Estructura de Clases](https://drive.google.com/file/d/11IWOFRKximEFkUaB4nRyEx-70ex8tV-f/view?usp=sharing)
+##  [Estructura de Clases](https://drive.google.com/file/d/1RZdHuDrlXeR3bRNS6-ycGpXHh9QtbRX8/view?usp=sharing)
 ![Diagram 2024-11-28 19-29-05](https://github.com/user-attachments/assets/b8a3d7d8-a5cf-41c7-8a4c-9e4709f269ce)
 ## Ejemplo de Código
 
