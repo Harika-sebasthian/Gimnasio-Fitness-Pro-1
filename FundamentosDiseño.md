@@ -3,10 +3,10 @@
 El modelo Orientado a Objetos organiza el software en objetos, que combinan datos y comportamientos. 
 Este paradigma se basa en cuatro principios fundamentales que permiten diseñar sistemas modulares, reutilizables y mantenibles:
 
-    ● Abstracción
+    ● [Abstracción]()
     
-    ● Encapsulamiento
+    ● [Encapsulamiento]()
     
-    ● Herencia
+    ● [Herencia]()
     
-    ● Polimorfismo
+    ● [Polimorfismo]()
