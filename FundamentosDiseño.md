@@ -6,7 +6,7 @@ Este paradigma se basa en cuatro principios fundamentales que permiten diseñar 
     
   ● [Abstracción](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Abstracci%C3%B3n.md)
     
-  ● [Encapsulamiento]()
+  ● [Encapsulamiento](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Encapsulamiento.md)
     
   ● [Herencia](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Herencia.md)
     
