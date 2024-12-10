@@ -8,6 +8,6 @@ Este paradigma se basa en cuatro principios fundamentales que permiten diseñar 
     
   ● [Encapsulamiento]()
     
-  ● [Herencia]()
+  ● [Herencia](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Herencia.md)
     
   ● [Polimorfismo]()
