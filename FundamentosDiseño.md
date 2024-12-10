@@ -10,4 +10,4 @@ Este paradigma se basa en cuatro principios fundamentales que permiten diseñar 
     
   ● [Herencia](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Herencia.md)
     
-  ● [Polimorfismo]()
+  ● [Polimorfismo](https://github.com/Harika-sebasthian/Gimnasio-Fitness-Pro-1/blob/main/Poliformismo.md)
