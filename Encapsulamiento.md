@@ -1,9 +1,9 @@
 ## Encapsulamiento
 
-  - Es el proceso de ocultar la implementación interna de un objeto y
+_Es el proceso de ocultar la implementación interna de un objeto y
 exponer sólo las interfaces públicas. Esto permite que los objetos mantengan su
 estado interno protegido de accesos no autorizados, promoviendo así la
-modularidad y la seguridad del sistema.
+modularidad y la seguridad del sistema._
 ## [Ejemplo en el proyecto](https://drive.google.com/file/d/1iHdcDIU4UgNZRD_gbzUpHE1SFrcYUZyB/view?usp=sharing)
 ![Diagram 2024-12-09 21-08-54](https://github.com/user-attachments/assets/bc309dad-36a7-473a-ae47-fa5e9bf64d97)
 
